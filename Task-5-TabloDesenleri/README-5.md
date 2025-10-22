@@ -1,0 +1,1 @@
+Üslü sayılar tablosu (a, a², a³), mil→kilometre dönüşüm tablosu ve 2’nin çarpım tablosu gibi yapılandırılmış çıktı örnekleri ürettik. Amaç, sabit değerlerden oluşan tabloları düzgün hizalama ve formatlama ile ekrana vermek; \t, sütun düzeni ve printf gibi araçların kullanımını öğretmekti. Böylece hem sayısal hem de metinsel verileri tablo halinde sunma becerisi geliştirildi.
