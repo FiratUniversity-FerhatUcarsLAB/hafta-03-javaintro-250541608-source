@@ -1,0 +1,1 @@
+Daire, dikdörtgen ve üçgen için alan ve çevre hesaplamalarını yaptık: dairede π·r² ve 2·π·r, dikdörtgende en·boy ve 2(en+boy), üçgende Heron formülü ile alan hesaplama. double tipleri ve Math sınıfı (ör. Math.sqrt, Math.PI) kullanılarak doğru ve hassas sonuçlar elde edildi. Amaç formülleri koda çevirmeyi ve geometrik problemlere programatik çözüm geliştirmeyi öğretmekti.
