@@ -1,0 +1,1 @@
+Bu görevde ekrana farklı sabit metinler yazdırmayı öğrendik: birden fazla mesajı sırayla gösterme, aynı mesajı tekrar yazdırma ve çok satırlı bir desen çizme (örneğin "JAVA" deseni). Ama System.out.println kullanımını, satır satır çıktı üretmeyi ve metin hizalamasını kavratmaktı. Döngü kullanmadan her satırı ayrı println ile nasıl yazacağımızı uyguladık.
